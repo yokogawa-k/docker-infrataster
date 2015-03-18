@@ -14,9 +14,8 @@ Infrataster と plugin を詰め込んだ docker image
 - [dyninc/infrataster-plugin-chef](https://github.com/dyninc/infrataster-plugin-chef)
 - [dyninc/infrataster-plugin-ldap](https://github.com/dyninc/infrataster-plugin-ldap)
 - [SnehaM/infrataster-plugin-pgsql](https://github.com/SnehaM/infrataster-plugin-pgsql)
-
-今後追加予定の plugin
 - [rahulkhengare/infrataster-plugin-memcached](https://github.com/rahulkhengare/infrataster-plugin-memcached)
+- [rahulkhengare/infrataster-plugin-redis](https://github.com/rahulkhengare/infrataster-plugin-redis)
 
 使い方
 ----
