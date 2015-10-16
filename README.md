@@ -16,6 +16,7 @@ Infrataster と plugin を詰め込んだ docker image
 - [SnehaM/infrataster-plugin-pgsql](https://github.com/SnehaM/infrataster-plugin-pgsql)
 - [rahulkhengare/infrataster-plugin-memcached](https://github.com/rahulkhengare/infrataster-plugin-memcached)
 - [rahulkhengare/infrataster-plugin-redis](https://github.com/rahulkhengare/infrataster-plugin-redis)
+- [otahi/infrataster-plugin-firewall](https://github.com/otahi/infrataster-plugin-firewall)
 
 使い方
 ----
